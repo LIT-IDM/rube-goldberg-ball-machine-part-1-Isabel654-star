@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Spinner : MonoBehaviour {
 
-    public float rotateTime = 1; // Second
+    public float rotateTime = 3; // Second
     public float waitTime = 2; // Seconds
     public float delay = 0;
 
